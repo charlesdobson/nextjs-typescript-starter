@@ -5,6 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "format": "prettier --ignore-path .gitignore \"**/*.+(ts|js|tsx)\" --write",
+    "lint": "eslint --ignore-path .gitignore \"**/*.+(ts|js|tsx)\"",
     "start": "next start"
   },
   "dependencies": {
