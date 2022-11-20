@@ -20,7 +20,7 @@
     "@emotion/babel-plugin": "11.9.2",
     "@types/node": "16.11.10",
     "@types/react": "17.0.47",
-    "@types/react-dom": "17.0.11",
+    "@types/react-dom": "17.0.18",
     "@typescript-eslint/eslint-plugin": "5.29.0",
     "@typescript-eslint/parser": "5.29.0",
     "eslint": "8.3.0",
